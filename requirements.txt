@@ -1,0 +1,5 @@
+# Required libraries for the decision tool.
+
+matplotlib==2.2.2
+numpy==1.14.4
+
